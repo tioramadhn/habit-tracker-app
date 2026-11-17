@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.habittracker.StreakCalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-11-17T14:35:17" hostname="MacBook-Pro-2.local" time="0.002">
+  <properties/>
+  <testcase name="unscheduled weekdays are skipped instead of breaking the streak" classname="com.example.habittracker.StreakCalculatorTest" time="0.001"/>
+  <testcase name="no completions means no streak" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <testcase name="today is a grace day and does not break the streak" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <testcase name="flexible habits count streaks in weeks" classname="com.example.habittracker.StreakCalculatorTest" time="0.001"/>
+  <testcase name="consecutive days build the current streak" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <testcase name="rate is capped for flexible habits that overshoot" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <testcase name="completion rate only counts days after creation" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <testcase name="a missed day ends the current streak" classname="com.example.habittracker.StreakCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+drawable ic_notification
+drawable mascot_writing
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw burned_out
+raw celebrating
+raw confused
+raw drained
+raw excited
+raw focused
+raw goal_achievement
+raw happy
+raw happy_content
+raw happy_writing
+raw locked
+raw low_energy
+raw meditating
+raw monitoring
+raw recharging
+raw sleeping
+raw surprised
+raw thinking
+raw waving
+string app_name
+style Theme.HabitTracker

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_goal_achievement.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/goal_achievement.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/drawable_ic_notification.xml.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_monitoring.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/monitoring.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_drained.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/drained.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_recharging.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/recharging.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_happy_writing.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/happy_writing.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_focused.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/focused.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_excited.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/excited.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_happy.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/happy.json"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-63:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.habittracker.app-main-65:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_locked.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/locked.json"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-63:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.example.habittracker.app-main-65:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_burned_out.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/burned_out.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_low_energy.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/low_energy.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_thinking.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/thinking.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_sleeping.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/sleeping.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_confused.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/confused.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_meditating.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/meditating.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_happy_content.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/happy_content.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_surprised.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/surprised.json"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/drawable-nodpi_mascot_writing.png.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/drawable-nodpi/mascot_writing.png"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_celebrating.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/celebrating.json"
+    },
+    {
+        "merged": "com.example.habittracker.app-debug-63:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.habittracker.app-main-65:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-debug-63:/raw_waving.json.flat",
+        "source": "/Users/tioramadhan/.gradle/daemon/8.11.1/com.example.habittracker.app-main-65:/raw/waving.json"
+    }
+]

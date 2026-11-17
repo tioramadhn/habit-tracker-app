@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.9.1" type="partial_results">
+    <map id="NotificationPermission">
+        <entry
+            name="source"
+            boolean="true"/>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.habittracker.MainActivity"
+                    boolean="true"/>
+                <entry
+                    name="com.example.habittracker.notification.BootReceiver"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.ic_launcher_background"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="4"
+            column="12"
+            startOffset="145"
+            endLine="4"
+            endColumn="41"
+            endOffset="174"/>
+        <entry
+            name="model"
+            string="color[ic_launcher_background(D)],drawable[ic_launcher_background(U),ic_launcher_foreground(U),mascot_writing(U),ic_launcher_monochrome(U),ic_notification(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],raw[burned_out(U),celebrating(U),confused(U),drained(U),excited(U),focused(U),goal_achievement(U),happy(U),happy_content(U),happy_writing(U),locked(U),low_energy(U),meditating(U),monitoring(U),recharging(U),sleeping(U),surprised(U),thinking(U),waving(U)],string[app_name(U)],style[Theme_HabitTracker(U)];2^3,6^1^2^4,7^1^2^4;;;"/>
+    </map>
+
+</incidents>

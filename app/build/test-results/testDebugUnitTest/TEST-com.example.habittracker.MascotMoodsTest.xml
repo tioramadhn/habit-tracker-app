@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.habittracker.MascotMoodsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-17T14:35:17" hostname="MacBook-Pro-2.local" time="0.016">
+  <properties/>
+  <testcase name="praise rotates and never crashes on any counter" classname="com.example.habittracker.MascotMoodsTest" time="0.015"/>
+  <testcase name="stats mood tracks the 30 day average" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <testcase name="reminder mascot sleeps while the reminder is off" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <testcase name="day mood follows how much of the day is done" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <testcase name="editor mood reacts to the form state" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <testcase name="finishing the last habit of the day gets the big reaction" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <testcase name="habit mood rewards streaks and flags a slump" classname="com.example.habittracker.MascotMoodsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

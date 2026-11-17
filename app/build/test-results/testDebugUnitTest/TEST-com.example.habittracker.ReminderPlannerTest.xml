@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.habittracker.ReminderPlannerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-17T14:35:17" hostname="MacBook-Pro-2.local" time="0.004">
+  <properties/>
+  <testcase name="rolls over to tomorrow once the time has passed" classname="com.example.habittracker.ReminderPlannerTest" time="0.003"/>
+  <testcase name="fires later today when the time has not passed yet" classname="com.example.habittracker.ReminderPlannerTest" time="0.0"/>
+  <testcase name="no trigger when the reminder is off or the habit is archived" classname="com.example.habittracker.ReminderPlannerTest" time="0.0"/>
+  <testcase name="does not notify when the habit is already done" classname="com.example.habittracker.ReminderPlannerTest" time="0.001"/>
+  <testcase name="skips days the habit is not scheduled on" classname="com.example.habittracker.ReminderPlannerTest" time="0.0"/>
+  <testcase name="flexible habits stop nagging once the weekly target is met" classname="com.example.habittracker.ReminderPlannerTest" time="0.0"/>
+  <testcase name="does not notify on a day the habit is not due" classname="com.example.habittracker.ReminderPlannerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
